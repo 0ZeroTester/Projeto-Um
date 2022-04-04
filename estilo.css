@@ -1,0 +1,11 @@
+h1{
+    font-family: 'comic-sans', sans-serif;
+    font-size: 200;
+    font-style: italic;
+    background-color: rgb(237, 255, 79);
+}pre{
+    font-family: 'comic-sans', sans-serif;
+    font-size: 150;
+    font-style: italic;
+    background-color: rgb(237, 255, 79);  
+}
